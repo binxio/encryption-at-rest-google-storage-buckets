@@ -1,4 +1,3 @@
-provider "google" {
-}
+provider "google" {}
 
 data "google_project" "current" {}
